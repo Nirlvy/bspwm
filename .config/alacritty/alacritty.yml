@@ -2,9 +2,11 @@ env:
   TERM: alacritty
 
 window:
+  opacity: 0.8
+
   padding:
-    x: 10
-    y: 10
+    x: 5
+    y: 3
 
   dynamic_padding: true
 
@@ -12,22 +14,22 @@ window:
 
 font:
   normal:
-    family: Sarasa Mono SC
+    family: JetBrainsMono Nerd Font
     style: Regular
 
   bold:
-    family: Sarasa Mono SC
+    family: JetBrainsMono Nerd Font
     style: Bold
 
   italic:
-    family: Sarasa Mono SC
+    family: JetBrainsMono Nerd Font
     style: Italic
 
   bold_italic:
-    family: Sarasa Mono SC
+    family: JetBrainsMono Nerd Font
     style: Bold Italic
 
-  size: 12.0
+  size: 6.5
 
 # Colors (Seagull)
 colors:
@@ -58,14 +60,13 @@ colors:
     cyan:    '#00a5ab'
     white:   '#ffffff'
 
-background_opacity: 0.9
-
 selection:
   save_to_clipboard: true
 
 cursor:
-  style: Underline
-  thickness: 0.25
+  style:
+    shape: Beam
+    blinking: Always
 
 live_config_reload: true
 
