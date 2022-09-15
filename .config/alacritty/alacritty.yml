@@ -1,0 +1,76 @@
+env:
+  TERM: alacritty
+
+window:
+  padding:
+    x: 10
+    y: 10
+
+  dynamic_padding: true
+
+  decorations: none
+
+font:
+  normal:
+    family: Sarasa Mono SC
+    style: Regular
+
+  bold:
+    family: Sarasa Mono SC
+    style: Bold
+
+  italic:
+    family: Sarasa Mono SC
+    style: Italic
+
+  bold_italic:
+    family: Sarasa Mono SC
+    style: Bold Italic
+
+  size: 12.0
+
+# Colors (Seagull)
+colors:
+  # Default colors
+  primary:
+    background: '#ffffff'
+    foreground: '#61707a'
+
+  # Default colors
+  normal:
+    black:   '#0b141a'
+    red:     '#ff4053'
+    green:   '#11ab00'
+    yellow:  '#bf8c00'
+    blue:    '#0099ff'
+    magenta: '#9854ff'
+    cyan:    '#00a5ab'
+    white:   '#ffffff'
+
+  # Bright colors
+  bright:
+    black:   '#0b141a'
+    red:     '#ff4053'
+    green:   '#11ab00'
+    yellow:  '#bf8c00'
+    blue:    '#0099ff'
+    magenta: '#9854ff'
+    cyan:    '#00a5ab'
+    white:   '#ffffff'
+
+background_opacity: 0.9
+
+selection:
+  save_to_clipboard: true
+
+cursor:
+  style: Underline
+  thickness: 0.25
+
+live_config_reload: true
+
+shell:
+  program: /bin/zsh
+
+mouse:
+  hide_when_typing: true
