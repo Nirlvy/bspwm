@@ -6,6 +6,6 @@ killall -q polybar
 # polybar-msg cmd quit
 
 # 运行 Polybar，使用默认的配置文件路径 ~/.config/polybar/config.ini
-polybar mybar 2>&1 | tee -a /tmp/polybar.log & disown
+polybar bspwm 2>&1 | tee -a /tmp/polybar.log & disown
 
 echo "Polybar launched..."
