@@ -1,0 +1,7 @@
+[user]
+	name = Nirlvy
+	email = 1240629470@qq.com
+[credential]
+	helper = store
+[http]
+	version = HTTP/1.1
