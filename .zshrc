@@ -23,6 +23,8 @@ source /usr/share/autojump/autojump.zsh
 
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
+bindkey "^[[H" beginning-of-line
+bindkey "^[[F" end-of-line
 
 export PATH=/home/nirlvy/.local/bin/:$PATH
 export PATH=$PATH:~/.yarn/bin
