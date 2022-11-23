@@ -7,4 +7,4 @@ export SSH_AUTH_SOCK
 mkdir -p "$HOME"/.local/share/keyrings
 
 # 自启动程序
-sxhkd &
+# sxhkd &

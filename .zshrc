@@ -10,8 +10,11 @@ HISTFILE=~/.zsh_history
 HISTSIZE=1000
 SAVEHIST=1000
 setopt autocd nomatch
-bindkey -e
 # End of lines configured by zsh-newuser-install
+
+# initialize autocomplete here, otherwise functions won't be loaded
+autoload -U compinit
+compinit
 
 autoload -U promptinit
 promptinit
@@ -20,7 +23,7 @@ source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-setopt HIST_IGNORE_DUPS
+setopt HIST_IGNORE_ALL_DUPS
 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
@@ -35,6 +38,4 @@ bindkey "\e[3~" delete-char
 
 export PATH=/home/nirlvy/.local/bin/:$PATH
 export PATH=$PATH:~/.yarn/bin
-source /opt/ros/noetic/setup.zsh
-export ROSDISTRO_INDEX_URL=https://mirrors.tuna.tsinghua.edu.cn/rosdistro/index-v4.yaml
 . "$HOME/.cargo/env"
