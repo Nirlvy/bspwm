@@ -1,0 +1,147 @@
+{
+	"layer": "top",
+	"modules-left": ["custom/launcher","cpu","memory","network","mpd","tray"],
+	"modules-center": ["wlr/workspaces"],
+	"modules-right": ["custom/clipboard","custom/wallpaper","backlight","pulseaudio","clock", "battery","custom/power"],
+
+	"pulseaudio": {
+		"tooltip": false,
+		"scroll-step": 5,
+		"format": "{icon} {volume}%",
+		"format-muted": "婢 Mute",
+        "on-click": "amixer -D pulse set Master 1+ toggle",
+		"on-click-right": "pkill pavucontrol || pavucontrol",
+		"format-icons": {
+			"default": ["", "", ""]
+		}
+	},
+
+	"wlr/workspaces": {
+        "format": "{icon}",
+        "on-click": "activate",
+        "format-icons": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "urgent": "",
+            "active": "",
+            "default": ""
+        },
+        "on-scroll-up": "hyprctl dispatch workspace e+1",
+        "on-scroll-down": "hyprctl dispatch workspace e-1",
+        "sort-by-number": true
+	},
+
+    "network": {
+        "interval": 1,
+        // "interface": "wlp2*",
+        "format-wifi": " {essid}",
+        "format-ethernet": " Online",
+        "format-linked": " Linked",
+        "format-disconnected": " Offline",
+        "tooltip": true,
+        "tooltip-format": "{ipaddr}\n信号 {signalStrength}%\n频率 {frequency}GHz\n上传 {bandwidthUpBytes}\n下载 {bandwidthDownBytes}",
+        "on-click": "$HOME/.config/wofi/network/network.sh",
+        "on-click-right": "pkill wofi || networkmanager_dmenu"
+    },
+
+	"backlight": {
+		"format": " {}%",
+		"interval": 2,
+        "on-scroll-up": "light -A 5",
+		"on-scroll-down": "light -U 5"
+	},
+
+    "battery": {
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon}  {capacity}%",
+        "format-charging": " {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-icons": ["", "", "", "", ""]
+    },
+
+	"tray":{
+		"icon-size":18,
+		"spacing": 10
+	},
+
+    "clock": {
+        "format": "{: %H:%M  %Y/%m/%d}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+
+    "cpu": {
+        "interval": 1,
+        "format": " {usage}%",
+        "max-length": 10,
+        "on-click": "pkill -9 htop || htop"
+    },
+
+    "memory": {
+        "interval": 1,
+        "format": " {}%",
+        "max-length": 10,
+        "on-click": "pkill -9 htop || htop"
+    },
+
+	"mpd": {
+    	"format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{title}",
+    	"format-disconnected": "Disconnected",
+    	"format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped",
+    	"interval": 10,
+    	"consume-icons": {
+        	"on": " " // Icon shows only when "consume" is on
+    	},
+    	"random-icons": {
+        	"on": " "
+    	},
+    	"repeat-icons": {
+        	"on": " "
+    	},
+    	"single-icons": {
+        	"on": " 1"
+    	},
+    	"state-icons": {
+        	"paused": "",
+        	"playing": ""
+    	},
+    	"tooltip-format": "{artist} - {album} ({elapsedTime:%M:%S}/{totalTime:%M:%S})",
+    	"tooltip-format-disconnected": "MPD (disconnected)",
+    	"on-click": "mpc toggle",
+    	"on-click-middle": "mpc stop",
+    	"on-click-right": "mpc next",
+    	"on-scroll-up": "mpc seek -5%",
+    	"on-scroll-down": "mpc seek +5%"
+	},
+
+    "custom/launcher":{
+        "format": " ",
+        "on-click": "$HOME/.config/wofi/launcher/launcher.sh"
+    },
+
+    "custom/power":{
+        "format": " ",
+        "on-click": "exit"
+    },
+
+    "custom/clipboard":{
+        "format": "{} 📋",
+        "exec": "cliphist list | wc -l",
+        "exec-if": "[[ $(cliphist list | wc -l) != 0 ]]",
+        "interval": 1,
+        "on-click": "pkill wofi || cliphist list | wofi --show dmenu --prompt 'select' | cliphist decode | wl-copy",
+        "on-click-middle": "rm ~/.cache/cliphist/db",
+        "on-click-right": "pkill wofi || cliphist list | wofi --show dmenu --prompt 'delete' | cliphist delete"
+    },
+
+    "custom/wallpaper":{
+        "format":" ",
+        "on-click": "$HOME/.config/waybar/scripts/hyprpaper.sh"
+    }
+}
+

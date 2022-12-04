@@ -10,14 +10,12 @@ HISTFILE=~/.zsh_history
 HISTSIZE=1000
 SAVEHIST=1000
 setopt autocd nomatch
+setopt nonomatch
 # End of lines configured by zsh-newuser-install
 
 # initialize autocomplete here, otherwise functions won't be loaded
 autoload -U compinit
 compinit
-
-autoload -U promptinit
-promptinit
 
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
@@ -35,6 +33,11 @@ bindkey '^[[B' history-substring-search-down
 bindkey "^[[H" beginning-of-line
 bindkey "^[[F" end-of-line
 bindkey "\e[3~" delete-char
+
+alias vcam='sudo modprobe v4l2loopback devices=1 video_nr=2 exclusive_caps=1 card_label="VirtualWebCam"'
+alias rvcam='sudo modprobe -r v4l2loopback'
+alias p='proxychains'
+alias c='clear'
 
 export PATH=/home/nirlvy/.local/bin/:$PATH
 export PATH=$PATH:~/.yarn/bin
