@@ -1,8 +1,8 @@
 {
 	"layer": "top",
-	"modules-left": ["custom/launcher","cpu","memory","network","mpd","tray"],
+	"modules-left": ["custom/launcher","cpu","memory","network","mpd"],
 	"modules-center": ["wlr/workspaces"],
-	"modules-right": ["custom/clipboard","backlight","pulseaudio","clock", "battery","custom/power"],
+	"modules-right": ["custom/clipboard","backlight","pulseaudio","clock", "battery","tray","custom/power"],
 
 	"pulseaudio": {
 		"tooltip": false,
@@ -35,7 +35,7 @@
     "network": {
         "interval": 1,
         // "interface": "wlp2*",
-        "format-wifi": " {essid}",
+        "format-wifi": " {essid} {signalStrength}%  {bandwidthDownBytes}  {bandwidthUpBytes}",
         "format-ethernet": " Online",
         "format-linked": " Linked",
         "format-disconnected": " Offline",
@@ -121,7 +121,7 @@
 
     "custom/power":{
         "format": " ",
-        "on-click": "exit"
+        "on-click": "swaylock"
     },
 
     "custom/clipboard":{
