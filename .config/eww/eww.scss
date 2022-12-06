@@ -1,0 +1,98 @@
+/** Global **************************************/
+* {
+	all: unset;
+	font-family: JetbrainsMono Nerd Font;
+}
+
+
+/** Background **********************************/
+.background {
+	background-color: #303446;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+
+/** Generic window ******************************/
+.genwin {
+  background-color: #131313;
+	border-radius: 16px;
+  padding:5px;
+}
+
+
+/** Music ***************************************/
+.album_art {
+	background-size: 180px;
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 180px;
+	min-width: 180px;
+	margin: 4px;
+	border-radius: 14px;
+}
+
+.song {
+	color: #8FBCBB;
+	font-size : 20px;
+	font-weight : bold;
+	margin : 30px 0px 0px 0px;
+}
+
+.artist {
+	color: #Eed49f;
+	font-size : 16px;
+	font-weight : normal;
+	margin : 0px 0px 15px 0px;
+}
+
+.btn_shuffle, .btn_prev, .btn_play, .btn_next, .btn_loop {
+  color: #7c94bf;
+  padding: 0px 10px;
+}
+.btn_shuffle {
+	font-size : 20px;
+	font-weight : normal;
+}
+.btn_prev {
+	font-size : 32px;
+	font-weight : normal;
+}
+.btn_play {
+	font-size : 32px;
+	font-weight : bold;
+	margin-left: -6px;
+}
+.btn_next {
+	font-size : 32px;
+	font-weight : normal;
+}
+.btn_loop {
+	font-size : 20px;
+	font-weight : normal;
+}
+
+
+/** Power buttons *******************************/
+.btn_logout, .btn_lock, .btn_reboot, .btn_poweroff, .btn_suspend {
+  color: #7c94bf;
+	font-size : 30px;
+	font-weight : bold;
+  padding: 8px 0;
+}
+
+.btn_lock {
+	margin: 0px 0px 0px 0px;
+}
+.btn_logout {
+	margin: 0px 0px 0px -3px;
+}
+.btn_suspend {
+	margin: 0px 0px 0px -3px;
+}
+.btn_reboot {
+	margin: 0px 0px 0px -6px;
+}
+.btn_poweroff {
+	margin: 0px 0px 0px -6px;
+}

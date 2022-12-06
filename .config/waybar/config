@@ -121,7 +121,8 @@
 
     "custom/power":{
         "format": " ",
-        "on-click": "swaylock"
+        "tooltip": false,
+        "on-click": "$HOME/.config/eww/scripts/launch"
     },
 
     "custom/clipboard":{

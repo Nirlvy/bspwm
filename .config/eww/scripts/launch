@@ -1,0 +1,21 @@
+#!/bin/bash
+
+## Files and cmd
+FILE="$HOME/.cache/eww_launch"
+
+run_eww() {
+	until pid=$(pidof eww)
+	do
+		sleep 1
+	done
+	eww open-many music powerbuttons
+}
+
+if [[ ! -f "$FILE" ]]; then
+	touch "$FILE"
+ 	run_eww
+ else
+ 	eww close music powerbuttons
+ 	rm "$FILE"
+ fi
+
