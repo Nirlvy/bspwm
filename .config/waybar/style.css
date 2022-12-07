@@ -172,13 +172,69 @@ tooltip {
     background: #161320;
 }
 
-#custom-power {
+#custom-lock {
 	font-size: 20px;
 	margin-top: 6px;
 	margin-left: 8px;
+	margin-right: 4px;
+	padding-left: 11px;
+	padding-right: 0px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #F28FAD;
+}
+
+#custom-logout {
+	font-size: 20px;
+	margin-top: 6px;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding-left: 10px;
+	padding-right: 0px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #F28FAD;
+}
+
+#custom-suspend {
+	font-size: 20px;
+	margin-top: 6px;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding-left: 10px;
+	padding-right: 0px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #F28FAD;
+}
+
+#custom-reboot {
+	font-size: 20px;
+	margin-top: 6px;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding-left: 10px;
+	padding-right: 2px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #F28FAD;
+}
+
+#custom-poweroff {
+	font-size: 20px;
+	margin-top: 6px;
+	margin-left: 4px;
 	margin-right: 8px;
 	padding-left: 10px;
-	padding-right: 5px;
+	padding-right: 4px;
 	margin-bottom: 0px;
 	border-radius: 10px;
 	transition: none;
@@ -210,18 +266,6 @@ tooltip {
 	background: #E8A2AF;
 }
 
-#custom-recorder {
-	margin-top: 6px;
-	margin-left: 8px;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-bottom: 0px;
-	border-radius: 10px;
-	transition: none;
-	color: #161320;
-	background: #CADB6A;
-}
-
 #mpd {
 	margin-top: 6px;
 	margin-left: 8px;
@@ -233,4 +277,3 @@ tooltip {
 	color: #161320;
 	background: #F2CDCD;
 }
-
