@@ -1,14 +1,13 @@
 ignore-empty-password
-
+screenshots
 daemonize
-
 clock
 
 indicator
-indicator-radius=100
-indicator-thickness=7
+indicator-radius=150
+indicator-thickness=10
 
-effect-blur=15x2
+effect-blur=7x5
 effect-vignette=0.5:0.5
 
 ring-color=bb00cc

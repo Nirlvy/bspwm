@@ -2,7 +2,7 @@
 	"layer": "top",
 	"modules-left": ["custom/launcher","cpu","memory","network","mpd"],
 	"modules-center": ["wlr/workspaces"],
-	"modules-right": ["custom/clipboard","backlight","pulseaudio","clock", "battery","tray","custom/lock","custom/logout","custom/suspend","custom/reboot","custom/poweroff"],
+	"modules-right": ["custom/clipboard","backlight","pulseaudio","clock", "battery","tray","custom/power"],
 
 	"pulseaudio": {
 		"tooltip": false,
@@ -119,34 +119,10 @@
         "on-click": "$HOME/.config/wofi/launcher/launcher.sh"
     },
 
-    "custom/lock":{
-        "format": " ",
-        "tooltip": false,
-        "on-click": "swaylock &"
-    },
-
-    "custom/logout":{
-        "format": " ",
-        "tooltip": false,
-        "on-click": "hyprctl dispatch exit 1"
-    },
-
-    "custom/suspend":{
-        "format": " ",
-        "tooltip": false,
-        "on-click": "systemctl suspend"
-    },
-
-    "custom/reboot":{
-        "format": " ",
-        "tooltip": false,
-        "on-click": "systemctl reboot"
-    },
-
-    "custom/poweroff":{
+    "custom/power":{
         "format": " ",
         "tooltip": false,
-        "on-click": "systemctl poweroff"
+        "on-click": "$HOME/.config/wofi/power/power.sh"
     },
 
     "custom/clipboard":{
