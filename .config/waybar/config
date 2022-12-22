@@ -90,7 +90,7 @@
         "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped",
         "interval": 10,
         "consume-icons": {
-            "on": " " // Icon shows only when "consume" is on
+            "on": " "
         },
         "random-icons": {
             "on": " "
