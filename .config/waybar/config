@@ -127,6 +127,7 @@
 
     "custom/clipboard":{
         "format": "{} 📋",
+        "tooltip": false,
         "exec": "cliphist list | wc -l",
         "exec-if": "[[ $(cliphist list | wc -l) != 0 ]]",
         "interval": 1,

@@ -2,7 +2,7 @@ env:
   TERM: alacritty
 
 window:
-  opacity: 0.95
+  opacity: 0.7
 
   padding:
     x: 5
@@ -31,34 +31,34 @@ font:
 
   size: 10
 
-# Colors (Seagull)
+# Colors
 colors:
   # Default colors
   primary:
-    background: '#ffffff'
-    foreground: '#61707a'
+    background: '#1c1e26'
+    foreground: '#e0e0e0'
 
   # Default colors
   normal:
-    black:   '#0b141a'
-    red:     '#ff4053'
-    green:   '#11ab00'
-    yellow:  '#bf8c00'
-    blue:    '#0099ff'
-    magenta: '#9854ff'
-    cyan:    '#00a5ab'
-    white:   '#ffffff'
+    black:   '#16161c'
+    red:     '#395678'
+    green:   '#29d398'
+    yellow:  '#fab795'
+    blue:    '#26bbd9'
+    magenta: '#ee64ac'
+    cyan:    '#59e1e3'
+    white:   '#d5d8da'
 
   # Bright colors
   bright:
-    black:   '#0b141a'
-    red:     '#ff4053'
-    green:   '#11ab00'
-    yellow:  '#bf8c00'
-    blue:    '#0099ff'
-    magenta: '#9854ff'
-    cyan:    '#00a5ab'
-    white:   '#ffffff'
+    black:   '#5b5858'
+    red:     '#ec6a88'
+    green:   '#3fdaa4'
+    yellow:  '#fbc3a7'
+    blue:    '#3fc4de'
+    magenta: '#f075b5'
+    cyan:    '#6be4e6'
+    white:   '#d5d8da'
 
 selection:
   save_to_clipboard: true
