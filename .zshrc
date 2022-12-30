@@ -38,6 +38,7 @@ alias vcam='sudo modprobe v4l2loopback devices=1 video_nr=2 exclusive_caps=1 car
 alias rvcam='sudo modprobe -r v4l2loopback'
 alias p='proxychains'
 alias c='clear'
+alias v='systemctl start v2raya'
 
 export PATH=/home/nirlvy/.local/bin/:$PATH
 export PATH=$PATH:~/.yarn/bin

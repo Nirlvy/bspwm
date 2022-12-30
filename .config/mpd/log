@@ -1894,3 +1894,83 @@ Dec 22 13:18 : ffmpeg/ape: Format ape detected only with low score of 25, misdet
 Dec 22 13:18 : ffmpeg/ape: Unsupported file version - 4.11
 Dec 22 13:20 : exception: Not playing
 Dec 22 13:23 : player: played "-dora - 【official】GASHATT ~ WACCA 201⑨y【onoken】.mp3"
+Dec 22 13:31 : player: played "茶理理 - Reburn.flac"
+Dec 22 13:33 : player: played "USAO - Night sky.mp3"
+Dec 22 13:35 : player: played "Callipose - 風塵少女 -Wind Rush-.mp3"
+Dec 22 13:38 : player: played "清水達也 - Rise up - Deemo Edtion -.mp3"
+Dec 22 13:41 : player: played "Arcaea_Team - NULCTRL.mp3"
+Dec 22 13:42 : player: played "陈致逸 HOYO-MiX - Lingering Bitterness 柔情留忆.flac"
+Dec 22 13:44 : player: played "Callipose - Hypernova.mp3"
+Dec 22 13:45 : output: Failed to play on "pulse audio" (pulse): disconnected
+Dec 22 13:45 : exception: Failed to open audio output
+Dec 22 13:47 : player: played "Arcaea_Team - Reinvent.mp3"
+Dec 22 13:51 : player: played "Srav3R USAO - Becouse of You.mp3"
+Dec 22 13:54 : player: played "Callipose - [BOFXVI] Lucent.mp3"
+Dec 22 13:56 : player: played "Callipose - 天空の城ヴェリエル.mp3"
+Dec 22 14:03 : player: played "Arcaea_Team - Finale Start.mp3"
+Dec 22 14:05 : player: played "Arcaea_Team - Moonlight of Sand Castle.mp3"
+Dec 22 14:06 : output: Failed to play on "pulse audio" (pulse): disconnected
+Dec 22 14:06 : exception: Failed to open audio output
+Dec 22 14:11 : player: played "Arcaea_Team - SOUNDWiTCH.mp3"
+Dec 22 14:13 : player: played "陈致逸 HOYO-MiX - Melody of Jellyfish 水母之歌.flac"
+Dec 22 14:18 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Dec 22 14:18 : player: played "ClariS - カラフル.flac"
+Dec 22 14:20 : player: played "Callipose - [BOFXVI] Hi-Fi-Story.mp3"
+Dec 22 14:22 : player: played "cierra- - G2R2018参赛曲：Colorful Days♪.mp3"
+Dec 22 14:26 : player: played "双笙-Safe And Sound.mp3"
+Dec 22 14:28 : player: played "陈致逸 HOYO-MiX - Ominous Monolith 磐峦的恶意.flac"
+Dec 22 14:32 : player: played "Kobaryo - Endless Adventure.flac"
+Dec 22 14:34 : player: played "Callipose - 日溜りの街－あ！.mp3"
+Dec 22 14:37 : player: played "onoken - Alexandrite.mp3"
+Dec 22 14:49 : player: played "Victor Borba - Bury the Light.flac"
+Dec 22 14:52 : player: played "浣小白owo - A Philosophical Wanderer - Tezuka x Yunosuke.mp3"
+Dec 22 14:54 : player: played "06. H.flac"
+Dec 22 14:58 : player: played "Mili - Imagined Flight.flac"
+Dec 22 15:02 : player: played "02.悠久のカタルシス ～綾波 ver.～.flac"
+Dec 22 15:07 : player: played "上海红茶ハウス (上海红茶馆　~ Chinese Tea).wav"
+Dec 22 15:08 : player: played "浣小白owo - After Rain - HyuN.mp3"
+Dec 22 15:12 : player: played "青龍-BLUE DRAGON.flac"
+Dec 22 15:14 : player: played "Callipose - Stellar Blue.mp3"
+Dec 22 15:17 : player: played "陈致逸 HOYO-MiX - A Noble Sacrifice 高贵的诀别.flac"
+Dec 22 15:22 : player: played "DDBY-ここにいた。もうここにはいない。.mp3"
+Dec 22 15:22 : player: played "愛し桜花よ散るなかれ_加賀(CV.茅野愛衣)_TVアニメーション『アズールレーン』キャラクターソングシングル Vol.8 加賀.mp3"
+Dec 22 15:24 : player: played "浣小白owo - Main Menu.mp3"
+Dec 22 15:24 : player: played "hideyuki hashimoto-toki.mp3"
+Dec 22 15:26 : player: played "Arcaea_Team - Specta.mp3"
+Dec 22 15:28 : player: played "Arcaea_Team - REconstruction.mp3"
+Dec 22 15:31 : player: played "Arcaea_Team - Defection.mp3"
+Dec 22 15:33 : player: played "V.A. - うまぴょい伝説 (Game Size).flac"
+Dec 22 15:38 : player: played "Callipose - 天(Long Ver.).mp3"
+Dec 22 15:42 : player: played "Mili - Fossil.mp3"
+Dec 22 15:45 : player: played "Arcaea_Team - amygdata.mp3"
+Dec 22 15:48 : player: played "-dora - REDALiCE & cosMo＠暴走P - 天使光輪 (Official Music Video).mp3"
+Dec 22 15:51 : player: played "MYUKKE. - FULi AUTO SHOOTER.mp3"
+Dec 22 15:54 : player: played "Callipose - Emotion Killer.mp3"
+Dec 22 15:57 : player: played "Mili - Rightfully (INST).flac"
+Dec 22 15:59 : player: played "Callipose - Rebirth.mp3"
+Dec 22 16:03 : player: played "浣小白owo - Memory Of Sunrise - nora2r.mp3"
+Dec 22 16:06 : player: played "し一け一 - Lueur de la nuit.mp3"
+Dec 22 16:09 : player: played "13. Moon Without The Stars.flac"
+Dec 22 16:12 : player: played "Arcaea_Team - Title OP (intro＋LOOP).mp3"
+Dec 22 16:14 : player: played "Callipose - 硬核機勭.mp3"
+Dec 22 16:14 : player: played "Mili - The theme of titi and chacha Ver.2.mp3"
+Dec 22 16:18 : player: played "Machico - winning the soul.flac"
+Dec 22 16:22 : player: played "mpi - Hill Of Sorrow.flac"
+Dec 22 16:29 : player: played "Mili - Sl0t.mp3"
+Dec 27 21:27 : zeroconf: No global port, disabling zeroconf
+Dec 27 21:35 : player: played "Mili - Sl0t.mp3"
+Dec 27 21:38 : zeroconf: No global port, disabling zeroconf
+Dec 27 23:20 : player: played "Mili - Sl0t.mp3"
+Dec 27 23:24 : player: played "高柳知葉 大橋彩香 大坪由佳 高橋未奈美 三澤紗千香 田中あいみ 前田佳織里 佐伯伊織 - 本能スピード.flac"
+Dec 27 23:25 : output: Failed to play on "pulse audio" (pulse): disconnected
+Dec 27 23:25 : exception: Failed to open audio output
+Dec 27 23:25 : player: played "DDBY-ここにいた。もうここにはいない。.mp3"
+Dec 27 23:27 : zeroconf: No global port, disabling zeroconf
+Dec 27 23:31 : player: played "DDBY-ここにいた。もうここにはいない。.mp3"
+Dec 27 23:33 : zeroconf: No global port, disabling zeroconf
+Dec 27 23:33 : player: played "DDBY-ここにいた。もうここにはいない。.mp3"
+Dec 28 17:08 : zeroconf: No global port, disabling zeroconf
+Dec 28 21:35 : player: played "M2U - M2U - Nightmare.flac"
+Dec 29 10:57 : zeroconf: No global port, disabling zeroconf
+Dec 29 20:23 : player: played "M2U - M2U - Nightmare.flac"
+Dec 30 11:04 : zeroconf: No global port, disabling zeroconf
