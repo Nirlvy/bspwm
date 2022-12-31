@@ -31,10 +31,10 @@ power() {
       systemctl suspend
       ;;
     "          重启")
-      hyprctl dispatch exit 1 && sleep 2s && systemctl reboot
+      systemctl reboot
       ;;
     "          关机")
-      hyprctl dispatch exit 1 && sleep 2s && poweroff
+      poweroff
       ;;
   esac
 }
