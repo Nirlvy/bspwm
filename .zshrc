@@ -21,8 +21,6 @@ source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-setopt HIST_IGNORE_ALL_DUPS
-
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
@@ -41,5 +39,5 @@ alias c='clear'
 alias v='systemctl start v2raya'
 
 export PATH=/home/nirlvy/.local/bin/:$PATH
-export PATH=$PATH:~/.yarn/bin
+# export PATH=$PATH:~/.yarn/bin
 . "$HOME/.cargo/env"
