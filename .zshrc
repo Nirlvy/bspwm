@@ -11,6 +11,7 @@ HISTSIZE=1000
 SAVEHIST=1000
 setopt autocd nomatch
 setopt nonomatch
+HISTCONTROL=ignoredups
 # End of lines configured by zsh-newuser-install
 
 # initialize autocomplete here, otherwise functions won't be loaded
