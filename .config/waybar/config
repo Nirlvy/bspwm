@@ -4,38 +4,30 @@
 	"modules-center": ["wlr/workspaces"],
 	"modules-right": ["custom/clipboard","backlight","pulseaudio","clock", "battery","tray","custom/power"],
 
-	"pulseaudio": {
-		"tooltip": false,
-		"scroll-step": 5,
-		"format": "{icon} {volume}%",
-		"format-muted": "婢 Mute",
-        "on-click": "amixer -D pulse set Master 1+ toggle",
-		"on-click-right": "pkill pavucontrol || pavucontrol",
-		"format-icons": {
-			"default": ["", "", ""]
-		}
-	},
+    "custom/launcher":{
+        "format": " ",
+        "tooltip": false,
+        "on-click": "$HOME/.config/wofi/launcher/launcher.sh"
+    },
 
-	"wlr/workspaces": {
-        "format": "{icon}",
-        "on-click": "activate",
-        "format-icons": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4",
-            "5": "5",
-            "active": ""
-        },
-        "on-scroll-up": "hyprctl dispatch workspace e+1",
-        "on-scroll-down": "hyprctl dispatch workspace e-1",
-        "sort-by-number": true
-	},
+    "cpu": {
+        "interval": 1,
+        "format": " {usage}%",
+        "max-length": 10,
+        "on-click": "alacritty -e htop"
+    },
+
+     "memory": {
+        "interval": 1,
+        "format": " {}%",
+        "max-length": 10,
+        "on-click": "alacritty -e htop"
+    },
 
     "network": {
         "interval": 1,
         // "interface": "wlp2*",
-        "format-wifi": " {essid} {signalStrength}%  {bandwidthDownBytes}  {bandwidthUpBytes}",
+        "format-wifi": " {essid}",
         "format-ethernet": " Online",
         "format-linked": " Linked",
         "format-disconnected": " Offline",
@@ -44,47 +36,7 @@
         "on-click": "$HOME/.config/wofi/network/network.sh"
     },
 
-	"backlight": {
-		"format": " {}%",
-		"interval": 2,
-        "on-scroll-up": "light -A 5",
-		"on-scroll-down": "light -U 5"
-	},
-
-    "battery": {
-        "states": {
-            "warning": 30,
-            "critical": 15
-        },
-        "format": "{icon}  {capacity}%",
-        "format-charging": " {capacity}%",
-        "format-plugged": " {capacity}%",
-        "format-icons": ["", "", "", "", ""]
-    },
-
-	"tray":{
-		"icon-size":18,
-		"spacing": 10
-	},
-
-    "clock": {
-        "format": "{: %H:%M  %Y/%m/%d}",
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
-    },
-
-    "cpu": {
-        "interval": 1,
-        "format": " {usage}%",
-        "max-length": 10
-    },
-
-    "memory": {
-        "interval": 1,
-        "format": " {}%",
-        "max-length": 10
-    },
-
-	"mpd": {
+    "mpd": {
         "format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{title}",
         "format-disconnected": "Disconnected",
         "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped",
@@ -114,19 +66,18 @@
         "on-scroll-down": "mpc volume -5"
 	},
 
-    "custom/launcher":{
-        "format": " ",
-        "tooltip": false,
-        "on-click": "$HOME/.config/wofi/launcher/launcher.sh"
-    },
+    "wlr/workspaces": {
+        "format": "{icon}",
+        "on-click": "activate",
+        "format-icons": {
+            "active": ""
+        },
+        "on-scroll-up": "hyprctl dispatch workspace e-1",
+        "on-scroll-down": "hyprctl dispatch workspace e+1",
+        "sort-by-number": true
+	},
 
-    "custom/power":{
-        "format": " ",
-        "tooltip": false,
-        "on-click": "$HOME/.config/wofi/power/power.sh"
-    },
-
-    "custom/clipboard":{
+	"custom/clipboard":{
         "format": "{} 📋",
         "tooltip": false,
         "exec": "cliphist list | wc -l",
@@ -135,6 +86,53 @@
         "on-click": "pkill wofi || cliphist list | wofi --show dmenu --prompt 'select' | cliphist decode | wl-copy",
         "on-click-middle": "rm ~/.cache/cliphist/db",
         "on-click-right": "pkill wofi || cliphist list | wofi --show dmenu --prompt 'delete' | cliphist delete"
-    }
+    },
+
+    "backlight": {
+		"format": " {}%",
+		"interval": 2,
+        "on-scroll-up": "light -A 5",
+		"on-scroll-down": "light -U 5"
+	},
+
+	"pulseaudio": {
+		"tooltip": false,
+		"scroll-step": 5,
+		"format": "{icon} {volume}%",
+		"format-muted": "婢 Mute",
+        "on-click": "amixer -D pulse set Master 1+ toggle",
+		"on-click-right": "pkill pavucontrol || pavucontrol",
+		"format-icons": {
+			"default": ["", "", ""]
+		}
+	},
+
+    "clock": {
+        "format": "{: %H:%M  %Y/%m/%d}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+
+    "battery": {
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon}  {capacity}%",
+        "format-charging": " {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-icons": ["", "", "", "", ""]
+    },
+
+	"tray":{
+		"icon-size":18,
+		"spacing": 10
+	},
+
+    "custom/power":{
+        "format": " ",
+        "tooltip": false,
+        "on-click": "$HOME/.config/wofi/power/power.sh"
+    },
+
 }
 

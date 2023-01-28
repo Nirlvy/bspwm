@@ -5,3 +5,5 @@
 	helper = store
 [http]
 	version = HTTP/1.1
+[init]
+	defaultBranch = main
