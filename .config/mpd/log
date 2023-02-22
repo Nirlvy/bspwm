@@ -2418,3 +2418,303 @@ Feb 01 10:42 : zeroconf: No global port, disabling zeroconf
 Feb 01 11:24 : player: played "青龍-BLUE DRAGON.flac"
 Feb 02 10:35 : zeroconf: No global port, disabling zeroconf
 Feb 02 10:43 : zeroconf: No global port, disabling zeroconf
+Feb 05 09:04 : zeroconf: No global port, disabling zeroconf
+Feb 05 09:17 : zeroconf: No global port, disabling zeroconf
+Feb 06 14:02 : zeroconf: No global port, disabling zeroconf
+Feb 06 16:19 : player: played "Callipose - Upshift.mp3"
+Feb 06 16:26 : player: played "onoken - DRG.mp3"
+Feb 06 16:28 : player: played "Callipose - Hazy moon.mp3"
+Feb 06 16:30 : player: played "Arcaea_Team - ENERGY SYNERGY MATRIX.mp3"
+Feb 06 16:32 : player: played "Callipose - NiNi.mp3"
+Feb 06 16:37 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Feb 06 16:37 : player: played "ClariS - カラフル.flac"
+Feb 06 16:43 : player: played "非可逆リズム - Noel (long ver.).mp3"
+Feb 06 16:45 : player: played "Callipose - before....mp3"
+Feb 06 16:47 : player: played "Arcaea_Team - INTERNET OVERDOSE.mp3"
+Feb 06 16:50 : player: played "cierra- - BOF2012参赛曲：HAELEQUIN.mp3"
+Feb 06 18:08 : player: played "Arcaea_Team - san skia.mp3"
+Feb 07 15:04 : zeroconf: No global port, disabling zeroconf
+Feb 07 15:12 : zeroconf: No global port, disabling zeroconf
+Feb 07 22:02 : player: played "Callipose - Born.mp3"
+Feb 08 10:25 : zeroconf: No global port, disabling zeroconf
+Feb 08 10:40 : player: played "Callipose - CherryImpact.mp3"
+Feb 08 14:39 : player: played "Bloody Purity.wav"
+Feb 08 14:42 : player: played "Callipose - The Island of Albatross.mp3"
+Feb 08 14:44 : player: played "17. Blossoms.flac"
+Feb 08 14:44 : player: played "Mili-Outro.mp3"
+Feb 08 14:49 : player: played "Sound piercer ダズビー - 花たちに希望を.mp3"
+Feb 08 14:52 : player: played "NceS - Burn.mp3"
+Feb 08 14:54 : player: played "Arcaea_Team - NEO WINGS.mp3"
+Feb 08 14:57 : player: played "Callipose - Artificial Rose.mp3"
+Feb 08 15:02 : player: played "HARDCORE TANO C P Light - Sweet and Sour (2014 Update VIP).mp3"
+Feb 08 15:04 : player: played "Tonyha7 - 05 - t＋pazolite VS 削除 - Silentphobia.mp3"
+Feb 08 15:07 : player: played "3rd Avenue_Callipose_BMS & BOF Music Collections.mp3"
+Feb 08 15:09 : player: played "Mili - Within.flac"
+Feb 08 15:11 : player: played "陈致逸 HOYO-MiX - Contemplation in Snow 白皑中的冥想.flac"
+Feb 08 15:17 : player: played "supercell - My Dearest.flac"
+Feb 08 15:17 : output: Failed to play on "pulse audio" (pulse): disconnected
+Feb 08 15:17 : exception: Failed to open audio output
+Feb 08 15:17 : player: played "七つの大罪　オリジナル・サウンドトラック-09-Eri0ne＄.flac"
+Feb 08 17:03 : zeroconf: No global port, disabling zeroconf
+Feb 08 22:12 : player: played "七つの大罪　オリジナル・サウンドトラック-09-Eri0ne＄.flac"
+Feb 09 10:49 : zeroconf: No global port, disabling zeroconf
+Feb 09 11:19 : player: played "七つの大罪　オリジナル・サウンドトラック-09-Eri0ne＄.flac"
+Feb 09 11:24 : player: played "折戸伸治 - 潮鳴りII.flac"
+Feb 09 11:26 : player: played "削除 -               .mp3"
+Feb 09 11:30 : player: played "三无MarBlue 孙晔 - Oaths.flac"
+Feb 09 11:33 : player: played "2018～朝你靠近～.mp3"
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:38 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Feb 09 11:38 : ffmpeg/ape: Unsupported file version - 4.11
+Feb 09 11:45 : zeroconf: No global port, disabling zeroconf
+Feb 10 10:56 : zeroconf: No global port, disabling zeroconf
+Feb 10 11:42 : player: played "Callipose - [BOFXVI] U-knighted Servant.mp3"
+Feb 10 16:29 : player: played "Arcaea_Team - iconoclast.mp3"
+Feb 10 16:33 : player: played "愛 think so,_ef_きみとぼく.mp3"
+Feb 10 16:37 : player: played "LeaF - Poison AND÷OR Affection.mp3"
+Feb 10 16:40 : player: played "Callipose - 星少女ステラユニオン.mp3"
+Feb 10 16:41 : player: played "森正樹 - Jump out ! DREAM PARTY.mp3"
+Feb 10 16:43 : player: played "06. The Message.flac"
+Feb 10 16:49 : player: played "Roselia - Sanctuary.flac"
+Feb 10 16:51 : player: played "Arcaea_Team - Overwhelm.mp3"
+Feb 10 16:56 : player: played "She Is My Sin - Night Wish.flac"
+Feb 10 17:00 : player: played "双笙-月出.flac"
+Feb 10 17:02 : player: played "cierra- - G2R2018参赛曲：GOODWORLD.mp3"
+Feb 10 17:04 : player: played "-dora - USAO - Try again【WACCA Edition】.mp3"
+Feb 10 17:09 : player: played "Mili - Maroma Samsa.flac"
+Feb 10 17:11 : player: played "Callipose - 空想都市トーキョー.mp3"
+Feb 10 17:15 : player: played "Arcaea_Team - Flyburg and Endroll.mp3"
+Feb 10 17:20 : player: played "Chicala Lpis - Käfig.mp3"
+Feb 10 17:22 : player: played "Callipose - Hypernova.mp3"
+Feb 10 17:25 : player: played "Arcaea_Team - Grimheart.mp3"
+Feb 10 17:29 : player: played "非可逆リズム - Re：End of a Dream (long ver.).mp3"
+Feb 10 17:32 : player: played "Hans Zimmer&amp;James Newton Howard-Like A Dog Chasing Cars.flac"
+Feb 11 18:09 : zeroconf: No global port, disabling zeroconf
+Feb 12 10:22 : zeroconf: No global port, disabling zeroconf
+Feb 12 16:59 : player: played "Arcaea_Team - Ascent.mp3"
+Feb 12 17:02 : player: played "削除 - 刻印 ［Imprinting］.flac"
+Feb 12 17:05 : player: played "Arcaea_Team - Lost Desire.mp3"
+Feb 12 17:07 : player: played "22. Essence of Twilight.flac"
+Feb 12 17:12 : player: played "浣小白owo - Reverie - Soba.mp3"
+Feb 12 17:14 : player: played "EBIMAYO - GOODTEK (for CHUNITHM).flac"
+Feb 12 17:20 : player: played "澤野弘之 - GUNDAM.flac"
+Feb 12 18:56 : player: played "浣小白owo - Gecko - RedMuffleR.mp3"
+Feb 12 19:02 : player: played "Sound piercer ダズビー - 花たちに希望を.mp3"
+Feb 12 19:07 : player: played "The Dawn - Dreamtale.flac"
+Feb 12 19:09 : player: played "Callipose - Grim Reaper -Knell-.mp3"
+Feb 12 19:12 : player: played "cierra- - G2R2018参赛曲：Find_Me.mp3"
+Feb 12 19:15 : player: played "04 千本の矢.flac"
+Feb 12 19:17 : player: played "Callipose - Reinforced Soul.mp3"
+Feb 12 19:20 : player: played "Arcaea_Team - Prism.mp3"
+Feb 12 19:22 : player: played "Polymath9 - La&nbsp;nuit&nbsp;de&nbsp;vif.mp3"
+Feb 12 19:26 : player: played "09. fripSide - sister's noise.flac"
+Feb 12 19:29 : player: played "Arcaea_Team - Surrender.mp3"
+Feb 12 19:33 : player: played "SIHanatsuka - REmorse.mp3"
+Feb 12 19:36 : player: played "深澤秀行 - Archer.flac"
+Feb 12 19:42 : player: played "黒沢ダイスケ - INSPION.mp3"
+Feb 12 19:45 : player: played "Callipose - Blackorient.mp3"
+Feb 12 19:47 : player: played "Arcaea_Team - Malicious Mischance.mp3"
+Feb 12 19:50 : player: played "Callipose - ロスト：ユートピアと真理と純粋の極彩世界.mp3"
+Feb 12 20:05 : player: played "ClariS - 冬空花火.flac"
+Feb 12 20:05 : player: played "松枝賀子-久远 ~光と波の记忆~.mp3"
+Feb 12 20:08 : player: played "Callipose - E-M(BMS Edit).mp3"
+Feb 12 20:12 : player: played "06. fripSide - future gazer.flac"
+Feb 12 20:18 : player: played "supercell - My Dearest.flac"
+Feb 12 20:20 : player: played "Arcaea_Team - Dream goes on.mp3"
+Feb 12 20:24 : player: played "NiZi RiNGO - Parodia Sonatina.mp3"
+Feb 12 20:27 : player: played "cierra- - BOFXV2019参赛曲：Last Paradise.mp3"
+Feb 12 20:29 : player: played "Callipose - Arcanum Guardian.mp3"
+Feb 12 20:29 : player: played "陈致逸 HOYO-MiX - Reconnaissance Captain 游击骑士.flac"
+Feb 12 20:35 : player: played "泽野弘之-Itsuka.flac"
+Feb 12 20:39 : player: played "黒魔 - 長い夏.mp3"
+Feb 12 20:43 : player: played "NceS - Eradication Catastrophe.flac"
+Feb 12 20:49 : player: played "05. Kimi ga nokoshita Sekai de.flac"
+Feb 12 20:54 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Feb 12 20:54 : player: played "ClariS - カラフル.flac"
+Feb 12 20:57 : player: played "01. 虚空の夢.flac"
+Feb 12 20:59 : player: played "02. inkar-usi.flac"
+Feb 12 21:04 : player: played "Mili - Let the Maggots Sing.mp3"
+Feb 12 21:09 : player: played "洛天依 乌龟Sui - 权御天下.mp3"
+Feb 12 21:26 : player: played "Callipose - Sakura Recollections.mp3"
+Feb 12 21:29 : player: played "20. Magnolia.flac"
+Feb 12 21:31 : player: played "浣小白owo - Nocturne：Sakura Nightfall - Sosop.mp3"
+Feb 12 21:31 : player: played "陈致逸 HOYO-MiX - Dvalin Is Landing! 特瓦林，抵达！.flac"
+Feb 12 21:33 : player: played "Arcaea_Team - A Wandering Melody of Love.mp3"
+Feb 12 21:33 : player: played "&Z_mizuki_&Z.mp3"
+Feb 12 21:37 : player: played "Kobaryo - Endless Adventure.flac"
+Feb 12 21:48 : player: played "Roselia - ONENESS.flac"
+Feb 12 21:52 : player: played "TetraCalyx - 罪の天使.mp3"
+Feb 12 21:57 : player: played "Dreadnought.flac"
+Feb 12 21:58 : output: Failed to play on "pulse audio" (pulse): disconnected
+Feb 12 21:58 : exception: Failed to open audio output
+Feb 12 21:58 : player: played "薛之谦-丑八怪.flac"
+Feb 13 10:31 : zeroconf: No global port, disabling zeroconf
+Feb 13 11:26 : player: played "薛之谦-丑八怪.flac"
+Feb 13 14:44 : player: played "Astral tale.flac"
+Feb 13 14:49 : player: played "02. Dream.flac"
+Feb 13 22:21 : player: played "11 - Sedap Malam.mp3"
+Feb 14 10:42 : zeroconf: No global port, disabling zeroconf
+Feb 14 14:40 : player: played "11 - Sedap Malam.mp3"
+Feb 14 14:45 : player: played "キラキラだとか夢だとか ～Sing Girls～.flac"
+Feb 14 14:50 : player: played "[ENGAGED DANCEHALL][nomico]Bad Apple!! feat.nomico(Nardis Remix).flac"
+Feb 14 14:52 : player: played "Various Artists - Deemo Check Music.mp3"
+Feb 14 14:54 : player: played "Kankitsu - Chronomia.mp3"
+Feb 14 14:56 : player: played "清水達也 - 聖者の息吹.mp3"
+Feb 14 14:58 : player: played "Callipose - 剛唸蓮華.mp3"
+Feb 14 15:01 : player: played "Arcaea_Team - Lights of Muse.mp3"
+Feb 14 15:01 : player: played "Mili - 聖天の万祈 (Arrange).mp3"
+Feb 14 15:05 : player: played "sound sepher - 宇宙に浮かぶ幻想郷.flac"
+Feb 14 15:08 : player: played "塞壬唱片-MSR - 逃亡 part2.flac"
+Feb 14 15:11 : player: played "Arcaea_Team - Snow White.mp3"
+Feb 14 15:13 : player: played "Callipose - The infant daughter Frandle's.mp3"
+Feb 14 15:16 : player: played "lixound - Break Through The Barrier.mp3"
+Feb 14 15:18 : player: played "10. Utopiosphere.flac"
+Feb 14 15:23 : player: played "Arcaea_Team - san skia.mp3"
+Feb 14 15:25 : player: played "魏琮霏-青石巷 (纯音乐).mp3"
+Feb 14 15:27 : player: played "Callipose - Dysnomia.mp3"
+Feb 14 15:30 : player: played "浣小白owo - sterelogue - VeetaCrush.mp3"
+Feb 14 15:32 : player: played "Arcaea_Team - cyanine.mp3"
+Feb 14 15:34 : player: played "浣小白owo - ニニ-邇々- - テヅカ x Qayo.mp3"
+Feb 14 15:39 : player: played "夜染 - パレード（Cover：ヨルシカ）.flac"
+Feb 14 15:43 : player: played "24. フライブルクとエンドロウル (Extended ver.).flac"
+Feb 14 15:48 : player: played "浣小白owo - Reverie - Soba.mp3"
+Feb 14 16:31 : player: played "Callipose - Spherescense.mp3"
+Feb 14 16:37 : player: played "USAO DJ名無し - Super Mega Jumbo.mp3"
+Feb 14 16:42 : player: played "xi - Halcyon -Long Version-.mp3"
+Feb 14 16:47 : player: played "09. fripSide - sister's noise.flac"
+Feb 14 16:53 : player: played "陪你到世界尽头.mp3"
+Feb 14 16:57 : player: played "Machico - winning the soul.flac"
+Feb 14 16:58 : player: played "多多poi 宴宁 - 我的天命.flac"
+Feb 14 17:01 : player: played "onoken - Alexandrite.mp3"
+Feb 14 17:03 : player: played "Callipose - Re：End of a Dream.mp3"
+Feb 14 17:07 : player: played "B.O.F.flac"
+Feb 14 17:11 : player: played "USAO - Wildfire.mp3"
+Feb 14 17:13 : player: played "陈致逸 HOYO-MiX - Ripples of Daydream 白日梦的涟漪.flac"
+Feb 14 17:15 : player: played "Y&amp;Co. - Daisuke.mp3"
+Feb 14 17:19 : player: played "01. fripSide - only my railgun.flac"
+Feb 14 22:01 : player: played "Kobaryo USAO - Sulyvahn.mp3"
+Feb 15 10:43 : zeroconf: No global port, disabling zeroconf
+Feb 15 10:48 : player: played "Kobaryo USAO - Sulyvahn.mp3"
+Feb 15 15:03 : player: played "Kobaryo USAO - Sulyvahn.mp3"
+Feb 15 15:08 : player: played "七つの大罪　オリジナル・サウンドトラック-09-Eri0ne＄.flac"
+Feb 15 15:11 : player: played "削除 - Altale.mp3"
+Feb 15 15:13 : player: played "Arcaea_Team - Ai Drew.mp3"
+Feb 15 15:18 : player: played "七つの大罪　オリジナル・サウンドトラック-01-Perfect　Time.flac"
+Feb 15 15:20 : player: played "Arcaea_Team - overdead..mp3"
+Feb 15 15:23 : player: played "Callipose - [BOFXVI] Ether：0 -Revolver-.mp3"
+Feb 15 15:23 : player: played "A Turtle's Heart_Mili_Deemo OST Vol.3.mp3"
+Feb 15 15:25 : player: played "ginkiha - Nightfall.mp3"
+Feb 15 15:29 : player: played "我々楽-東山花灯路 (Japanese Beauty in the Darkness).flac"
+Feb 15 15:31 : player: played "Arcaea_Team - Monochrome Princess.mp3"
+Feb 15 15:34 : player: played "Callipose - Appreciate Sunset ♚.mp3"
+Feb 15 15:36 : player: played "-dora - 【WACCA】Srav3R - Akareram (WACCA Edit).mp3"
+Feb 15 15:38 : player: played "Callipose - Altros.mp3"
+Feb 15 15:40 : player: played "陈致逸 HOYO-MiX - Genius of Takwin 创生的灵慧.flac"
+Feb 15 15:44 : player: played "Arcaea_Team - Arcaea v2.2.0 Title(intro＋loop).mp3"
+Feb 15 15:46 : player: played "lixound - Break Through The Barrier.mp3"
+Feb 15 15:49 : player: played "James Landino - Shiro (Cytus II).mp3"
+Feb 15 15:51 : player: played "Arcaea_Team - Moonlight of Sand Castle.mp3"
+Feb 15 15:56 : player: played "米津玄師 - Lemon.dff"
+Feb 15 15:56 : player: played "AIAIAI_Kizuna AI+中田ヤスタカ_AIAIAI.mp3"
+Feb 15 15:57 : player: played "陈致逸 HOYO-MiX - Let's Go, Crimson Knight! 真红骑士，出发！.flac"
+Feb 15 16:03 : player: played "06. Wings Of Piano.flac"
+Feb 15 16:06 : player: played "Reku Mochizuki - Unlimited Katharsis (2019 VIP).flac"
+Feb 15 16:10 : player: played "BlackY - Nostalgic Flashback.mp3"
+Feb 15 16:12 : player: played "Phantasia.flac"
+Feb 15 16:16 : player: played "CosMo@暴走P - Ωκεανος.mp3"
+Feb 15 16:20 : player: played "MYUKKE. - FULi AUTO SHOOTER.mp3"
+Feb 15 16:22 : player: played "Tonyha7 - 1 Zekk - フリーフォール.mp3"
+Feb 15 16:25 : player: played "Arcaea_Team - Teriqma.mp3"
+Feb 15 16:29 : player: played "The Dawn - Dreamtale.flac"
+Feb 15 16:30 : player: played "Machico 大西沙織 - 木漏れ日のエール (TV Size).mp3"
+Feb 15 16:34 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Feb 15 16:35 : player: played "ClariS - カラフル.flac"
+Feb 15 16:38 : player: played "05. Kimi ga nokoshita Sekai de.flac"
+Feb 15 16:42 : player: played "塞壬唱片-MSR - 短兵相接.flac"
+Feb 15 16:43 : player: played "陈致逸 HOYO-MiX - Lovers' Oath 蒲苇如丝.flac"
+Feb 15 16:45 : player: played "Various Artists - Feast of Spring.mp3"
+Feb 15 16:48 : player: played "Arcaea_Team - Dantalion.mp3"
+Feb 15 16:49 : player: played "陈致逸 HOYO-MiX - A Letter From Afar 异乡的归书.flac"
+Feb 15 16:52 : player: played "出羽良彰-Cry For The Moon.flac"
+Feb 15 16:54 : player: played "Arcaea_Team - Tempestissimo.mp3"
+Feb 15 16:57 : player: played "Arcaea_Team - ReviXy.mp3"
+Feb 15 16:59 : player: played "Lia-鳥の詩 (Short ver.).flac"
+Feb 16 10:15 : zeroconf: No global port, disabling zeroconf
+Feb 16 11:43 : player: played "塞壬唱片-MSR - 执棋者之骨.flac"
+Feb 16 15:16 : player: played "Callipose - Pure Ruby.mp3"
+Feb 16 15:19 : player: played "Tonyha7 - 01. HiTECH NINJA - Utopia feat. shully.mp3"
+Feb 16 16:47 : player: played "Callipose - Alice in Wonderland Syndrome.mp3"
+Feb 16 16:51 : player: played "sound sepher - 宇宙に浮かぶ幻想郷.flac"
+Feb 16 16:56 : player: played "02. Jackknife.flac"
+Feb 16 17:06 : player: played "京田誠一 - 宇宙.mp3"
+Feb 17 10:25 : zeroconf: No global port, disabling zeroconf
+Feb 17 10:29 : zeroconf: No global port, disabling zeroconf
+Feb 17 15:19 : player: played "Mili - 誰のための (Arrange).mp3"
+Feb 17 15:21 : player: played "Arcaea_Team - La'qryma of the Wasteland.mp3"
+Feb 17 15:24 : player: played "cierra- - G2R2018参赛曲：Träne.mp3"
+Feb 17 15:27 : player: played "陈致逸 HOYO-MiX - Dance with the Great Vortex 同漩涡共舞.flac"
+Feb 17 15:28 : player: played "陈致逸 HOYO-MiX - A Sparky Clash 火花的初遇.flac"
+Feb 17 15:31 : player: played "Arcaea_Team - goldenslaughterer.mp3"
+Feb 17 15:35 : player: played "03. Reflection(Mirror Night).flac"
+Feb 17 15:38 : player: played "20. Magnolia.flac"
+Feb 17 15:40 : player: played "Thomas Greenberg-The Right Path.flac"
+Feb 17 15:43 : player: played "Arcaea_Team - Vandalism.mp3"
+Feb 17 15:46 : player: played "26. 虚空の夢 (OP ver.).flac"
+Feb 17 15:49 : player: played "Mili - Rightfully (INST).flac"
+Feb 17 15:53 : player: played "ハロー、ハッピーワールド! - ゴーカ! ごーかい!？ ファントムシーフ!.flac"
+Feb 17 15:55 : player: played "ANANT-GARDE EYES - otonashi.flac"
+Feb 17 15:58 : player: played "-dora - Kobaryo - †DOOF†SENC†【WACCA Edition】.mp3"
+Feb 17 16:03 : player: played "Mili - Sl0t.mp3"
+Feb 17 16:03 : player: played "HOYO-MiX - Lil' Dash of Love.flac"
+Feb 17 16:04 : player: played "Mili - 闇にあらがって (Arrange).mp3"
+Feb 17 16:06 : player: played "20. Sheriruth.flac"
+Feb 17 16:09 : player: played "Roselia - BRAVE JEWEL.flac"
+Feb 18 10:06 : zeroconf: No global port, disabling zeroconf
+Feb 18 16:39 : zeroconf: No global port, disabling zeroconf
+Feb 18 16:46 : zeroconf: No global port, disabling zeroconf
+Feb 18 17:06 : zeroconf: No global port, disabling zeroconf
+Feb 18 17:19 : zeroconf: No global port, disabling zeroconf
+Feb 19 09:10 : zeroconf: No global port, disabling zeroconf
+Feb 22 16:24 : zeroconf: No global port, disabling zeroconf
+Feb 22 16:37 : player: played "Callipose - [BOFXVI] Bliss.mp3"
+Feb 22 16:40 : player: played "陈致逸 HOYO-MiX - Rage Beneath the Mountains 岩壑之崩.flac"
+Feb 22 16:43 : player: played "Arcaea_Team - Yosakura Fubuki.mp3"
+Feb 22 16:45 : player: played "20. PRAGMATISM.flac"
+Feb 22 16:49 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Feb 22 16:49 : player: played "ClariS - カラフル.flac"
+Feb 22 16:51 : player: played "Callipose - 失望Choco.mp3"
+Feb 22 16:53 : player: played "09. Platinum.flac"
+Feb 22 16:55 : player: played "浣小白owo - Chrysanthemum - 7mai.mp3"
+Feb 22 16:58 : player: played "Arcaea_Team - Quon.mp3"
+Feb 22 17:01 : player: played "cierra- - BOF2005冠军海神寓拝.mp3"
+Feb 22 17:03 : player: played "04. Evolution Era.flac"
+Feb 22 17:14 : player: played "Srav3R USAO - Becouse of You.mp3"

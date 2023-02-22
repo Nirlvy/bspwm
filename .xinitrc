@@ -6,5 +6,5 @@ export SSH_AUTH_SOCK
 
 mkdir -p "$HOME"/.local/share/keyrings
 
-# 自启动程序
-# sxhkd &
+# export AWT_TOOLKIT=MToolkit
+# export _JAVA_AWT_WM_NONREPARENTING=1

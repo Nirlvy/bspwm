@@ -33,7 +33,7 @@
         "format-disconnected": " Offline",
         "tooltip": true,
         "tooltip-format": "IP  {ipaddr}\n信号 {signalStrength}%\n频率 {frequency}GHz\n上传 {bandwidthUpBytes}\n下载 {bandwidthDownBytes}",
-        "on-click": "$HOME/.config/wofi/network/network.sh"
+        "on-click": "alacritty -e nmtui"
     },
 
     "mpd": {
