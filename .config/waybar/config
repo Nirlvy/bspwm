@@ -14,14 +14,14 @@
         "interval": 1,
         "format": " {usage}%",
         "max-length": 10,
-        "on-click": "alacritty -e htop"
+        "on-click": "pkill alacritty || alacritty -e htop"
     },
 
      "memory": {
         "interval": 1,
         "format": " {}%",
         "max-length": 10,
-        "on-click": "alacritty -e htop"
+        "on-click": "pkill alacritty || alacritty -e htop"
     },
 
     "network": {
@@ -33,7 +33,7 @@
         "format-disconnected": " Offline",
         "tooltip": true,
         "tooltip-format": "IP  {ipaddr}\n信号 {signalStrength}%\n频率 {frequency}GHz\n上传 {bandwidthUpBytes}\n下载 {bandwidthDownBytes}",
-        "on-click": "alacritty -e nmtui"
+        "on-click": "pkill alacritty || alacritty -e nmtui"
     },
 
     "mpd": {

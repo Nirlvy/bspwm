@@ -39,4 +39,3 @@ export PATH=/home/nirlvy/.local/bin/:$PATH
 source /opt/miniconda/etc/profile.d/conda.sh
 export PNPM_HOME="/home/nirlvy/.local/share/pnpm"
 export PATH="$PNPM_HOME:$PATH"
-
