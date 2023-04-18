@@ -8,6 +8,7 @@ SAVEHIST=1000
 setopt autocd nomatch
 setopt nonomatch
 HISTCONTROL=ignoredups
+setopt hist_find_no_dups
 
 autoload -U compinit
 compinit
@@ -39,3 +40,8 @@ export PATH=/home/nirlvy/.local/bin/:$PATH
 source /opt/miniconda/etc/profile.d/conda.sh
 export PNPM_HOME="/home/nirlvy/.local/share/pnpm"
 export PATH="$PNPM_HOME:$PATH"
+
+if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]];
+then
+	startx
+fi
