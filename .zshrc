@@ -2,16 +2,17 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
-HISTFILE=~/.zsh_history
+zstyle ':completion:*' max-errors 1
+zstyle :compinstall filename '/home/nirlvy/.zshrc'
+
+autoload -Uz compinit
+compinit
+
+HISTFILE=~/.histfile
 HISTSIZE=1000
 SAVEHIST=1000
-setopt autocd nomatch
-setopt nonomatch
-HISTCONTROL=ignoredups
-setopt hist_find_no_dups
-
-autoload -U compinit
-compinit
+setopt autocd nomatch histignoredups 
+bindkey -e
 
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
@@ -20,28 +21,12 @@ source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/autojump/autojump.zsh
 
-bindkey '^[[A' history-substring-search-up
-bindkey '^[[B' history-substring-search-down
-bindkey "^[[H" beginning-of-line
-bindkey "^[[F" end-of-line
-bindkey "\e[3~" delete-char
-
 alias ll='ls -alF'
-alias vcam='sudo modprobe v4l2loopback exclusive_caps=1 card_label=OBS Virtual Camera'
-alias rvcam='sudo modprobe -r v4l2loopback'
-alias p='proxychains'
 alias c='clear'
-alias v='systemctl start v2raya'
 alias n='nvim'
 
-export HYPRSHOT_DIR=~/Pictures/screenshot
-export PATH=/home/nirlvy/.local/bin/:$PATH
-. "$HOME/.cargo/env"
-source /opt/miniconda/etc/profile.d/conda.sh
 export PNPM_HOME="/home/nirlvy/.local/share/pnpm"
-export PATH="$PNPM_HOME:$PATH"
+export PATH=/home/nirlvy/.local/bin/:$PNPM_HOME:$PATH
+#. "$HOME/.cargo/env"
+#source /opt/miniconda/etc/profile.d/conda.sh
 
-if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]];
-then
-	startx
-fi

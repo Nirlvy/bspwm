@@ -6,7 +6,3 @@ export SSH_AUTH_SOCK
 
 mkdir -p "$HOME"/.local/share/keyrings
 
-# export AWT_TOOLKIT=MToolkit
-# export _JAVA_AWT_WM_NONREPARENTING=1
-
-exec Hyprland
