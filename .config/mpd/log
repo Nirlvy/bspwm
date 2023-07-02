@@ -3083,3 +3083,42 @@ Apr 16 17:09 : zeroconf: No global port, disabling zeroconf
 Apr 17 13:14 : zeroconf: No global port, disabling zeroconf
 Apr 18 13:26 : zeroconf: No global port, disabling zeroconf
 Apr 18 13:35 : zeroconf: No global port, disabling zeroconf
+Apr 19 10:12 : zeroconf: No global port, disabling zeroconf
+Apr 19 11:08 : zeroconf: No global port, disabling zeroconf
+Apr 20 17:02 : zeroconf: No global port, disabling zeroconf
+Apr 21 11:09 : zeroconf: No global port, disabling zeroconf
+Apr 22 12:43 : zeroconf: No global port, disabling zeroconf
+Apr 22 12:46 : zeroconf: No global port, disabling zeroconf
+Apr 23 12:39 : zeroconf: No global port, disabling zeroconf
+Apr 25 15:42 : zeroconf: No global port, disabling zeroconf
+Apr 26 19:45 : zeroconf: No global port, disabling zeroconf
+Apr 26 21:03 : zeroconf: No global port, disabling zeroconf
+Apr 27 11:22 : zeroconf: No global port, disabling zeroconf
+Apr 28 10:39 : zeroconf: No global port, disabling zeroconf
+Apr 29 11:32 : zeroconf: No global port, disabling zeroconf
+Apr 29 11:50 : zeroconf: No global port, disabling zeroconf
+Apr 29 22:01 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Apr 29 22:01 : player: played "VeetaCrush - Dandelion's Daydream(Extended Version).flac"
+Apr 30 13:00 : zeroconf: No global port, disabling zeroconf
+Apr 30 21:47 : zeroconf: No global port, disabling zeroconf
+May 01 03:46 : zeroconf: No global port, disabling zeroconf
+May 01 13:05 : zeroconf: No global port, disabling zeroconf
+May 02 13:11 : zeroconf: No global port, disabling zeroconf
+May 03 12:13 : zeroconf: No global port, disabling zeroconf
+May 04 23:47 : zeroconf: No global port, disabling zeroconf
+May 27 09:38 : zeroconf: No global port, disabling zeroconf
+May 27 09:38 : exception: inotify_add_watch() has failed: No such file or directory
+May 27 10:06 : zeroconf: No global port, disabling zeroconf
+May 27 10:06 : exception: inotify_add_watch() has failed: No such file or directory
+May 27 10:07 : zeroconf: No global port, disabling zeroconf
+May 27 10:07 : exception: inotify_add_watch() has failed: No such file or directory
+Jun 01 09:22 : zeroconf: No global port, disabling zeroconf
+Jun 01 09:22 : exception: inotify_add_watch() has failed: No such file or directory
+Jun 18 15:29 : zeroconf: No global port, disabling zeroconf
+Jun 18 15:29 : exception: inotify_add_watch() has failed: No such file or directory
+Jun 18 15:55 : zeroconf: No global port, disabling zeroconf
+Jun 18 15:55 : exception: inotify_add_watch() has failed: No such file or directory
+Jun 25 22:19 : zeroconf: No global port, disabling zeroconf
+Jun 25 22:19 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 02 10:13 : zeroconf: No global port, disabling zeroconf
+Jul 02 10:13 : exception: inotify_add_watch() has failed: No such file or directory
