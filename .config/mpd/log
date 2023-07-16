@@ -3122,3 +3122,14 @@ Jun 25 22:19 : zeroconf: No global port, disabling zeroconf
 Jun 25 22:19 : exception: inotify_add_watch() has failed: No such file or directory
 Jul 02 10:13 : zeroconf: No global port, disabling zeroconf
 Jul 02 10:13 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 02 21:57 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 02 21:57 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 05 23:51 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 09 14:53 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 09 15:29 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 13 23:36 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 13 23:38 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 16 14:46 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 16 14:48 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 16 18:38 : exception: inotify_add_watch() has failed: No such file or directory
+Jul 16 18:39 : exception: inotify_add_watch() has failed: No such file or directory
