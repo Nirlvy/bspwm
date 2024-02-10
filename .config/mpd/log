@@ -3333,3 +3333,717 @@ Dec 31 13:42 : player: played "Æsir - V..flac"
 Dec 31 13:45 : player: played "Arcaea_Team - Macrocosmic Modulation.mp3"
 Dec 31 13:48 : player: played "浣小白owo - ［KALPA合作］Avataar ~Reincarnation of Kalpa~ - Scarlette a.k.a CrYmson.mp3"
 Dec 31 13:52 : player: played "月代彩 - Noctilucence.mp3"
+Dec 31 13:55 : player: played "Arcaea_Team - Defection.mp3"
+Dec 31 13:58 : player: played "Arcaea_Team - Last丨Eternity.mp3"
+Dec 31 13:58 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Dec 31 13:58 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Dec 31 13:58 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (?)
+Dec 31 13:58 : exception: Failed to decode 上海アリス幻樂団 - 紅より儚い永遠.flac
+Dec 31 13:58 : player: played "上海アリス幻樂団 - 紅より儚い永遠.flac"
+Dec 31 13:58 : exception: Failed to decode 上海アリス幻樂団 - 紅より儚い永遠.flac
+Dec 31 14:01 : player: played "Kobaryo - FLUFFY FLASH.flac"
+Dec 31 14:05 : player: played "t+pazolite、削除 - Silentphobia (Uncut Edition).flac"
+Dec 31 14:08 : player: played "DJ Noriken - Meta-Mysteria.flac"
+Dec 31 14:13 : player: played "折戸伸治 - 雪野原.flac"
+Dec 31 14:15 : player: played "02. Vivere La Vita.flac"
+Dec 31 14:18 : player: played "ナユタン星人、ナナヲアカリ、000 - コスモポップファンクラブ (feat. ナナヲアカリ & 000).flac"
+Dec 31 14:23 : player: played "上海アリス幻樂団 - 佐渡のニッ岩.flac"
+Dec 31 14:24 : player: played "Mili - 誰のための (Arrange).mp3"
+Dec 31 14:26 : player: played "FELT - Hex9946.mp3"
+Dec 31 14:30 : player: played "sasakure.UK - the EmpErroR.flac"
+Dec 31 14:32 : player: played "浣小白owo - Nocturne：Sakura Nightfall - Sosop.mp3"
+Dec 31 14:34 : player: played "DJ Noriken - Quon.flac"
+Dec 31 14:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Dec 31 14:37 : player: played "REDALiCE、MASAKI（ZUNTATA） - BUCHiGiRE Berserker.flac"
+Dec 31 15:24 : player: played "Callipose - [BOFXVI] Dragon's Blood Tree ♚.mp3"
+Dec 31 18:14 : player: played "xi - Double Helix.flac"
+Jan 02 10:56 : player: played "xi - Double Helix.flac"
+Jan 03 13:07 : exception: Unsupported URI scheme
+Jan 03 13:07 : exception: Failed to open /home/nirlvy/.config/mpd/playlists: No such file or directory
+Jan 03 13:07 : exception: Failed to open /home/nirlvy/.config/mpd/playlists: No such file or directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jan 03 13:07 : exception: No such playlist
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.png': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.jpg': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.webp': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.png': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.jpg': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.webp': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.png': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.jpg': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.webp': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.png': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.jpg': Not a directory
+Jan 03 13:07 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.webp': Not a directory
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 03 13:07 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 03 13:07 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 03 13:07 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Jan 03 13:07 : ffmpeg/ape: Unsupported file version - 4.11
+Jan 05 12:00 : exception: Unsupported URI scheme
+Jan 05 12:00 : exception: Failed to open /home/nirlvy/.config/mpd/playlists: No such file or directory
+Jan 05 12:00 : exception: Failed to open /home/nirlvy/.config/mpd/playlists: No such file or directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jan 05 12:00 : exception: No such playlist
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.png': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.jpg': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.webp': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.png': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.jpg': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.webp': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.png': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.jpg': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.webp': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.png': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.jpg': Not a directory
+Jan 05 12:00 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.webp': Not a directory
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 05 12:00 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 05 12:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 05 12:00 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Jan 05 12:00 : ffmpeg/ape: Unsupported file version - 4.11
+Jan 05 19:44 : player: played "こだまさおり-未完成ストライド.flac"
+Jan 05 20:49 : player: played "こだまさおり-未完成ストライド.flac"
+Jan 09 15:26 : player: played "FELT - LOG.flac"
+Jan 09 15:30 : player: played "Mili - Sacramentum：Unaccompanied Hymn for Torino.flac"
+Jan 09 15:33 : player: played "04 千本の矢.flac"
+Jan 09 15:36 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 09 15:36 : player: played "アリスシャッハと魔法の楽団 - フライブルクとエンドロウル.flac"
+Jan 09 15:38 : player: played "t+pazolite、Massive New Krew、青木志貴 - with U.flac"
+Jan 09 15:44 : player: played "FELT - Maurits”禅”Cornelis - Comes around.flac"
+Jan 09 15:49 : player: played "舞花 - JOURNEY.flac"
+Jan 09 15:53 : player: played "黄昏フロンティア、上海アリス幻樂団 - 佐渡のニッ岩.flac"
+Jan 09 15:56 : player: played "Fujiyori - Fly Again.flac"
+Jan 09 16:00 : player: played "わかどり - Fuzzy-Navel (Long Drinks).mp3"
+Jan 09 16:00 : player: played "FELT - Life [Eris'sa Fate Encountermix].flac"
+Jan 11 22:42 : player: played "Sobrem - Long-shot.flac"
+Jan 12 12:35 : exception: Unsupported URI scheme
+Jan 12 12:35 : exception: Failed to open /home/nirlvy/.config/mpd/playlists: No such file or directory
+Jan 12 12:35 : exception: Failed to open /home/nirlvy/.config/mpd/playlists: No such file or directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jan 12 12:35 : exception: No such playlist
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.png': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.jpg': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.webp': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.png': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.jpg': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.webp': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.png': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.jpg': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.webp': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.png': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.jpg': Not a directory
+Jan 12 12:35 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.webp': Not a directory
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 12 12:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 12 12:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 12 12:35 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Jan 12 12:35 : ffmpeg/ape: Unsupported file version - 4.11
+Jan 12 13:03 : player: played "Sobrem - Long-shot.flac"
+Jan 12 13:10 : player: played "ああああ - 僕たちの旅とエピローグ。 [Long ver.].mp3"
+Jan 12 14:16 : player: played "上海アリス幻樂団 - Demystify Feast.flac"
+Jan 12 22:14 : player: played "许嵩 - 幻听.flac"
+Jan 13 21:10 : exception: Unsupported URI scheme
+Jan 13 21:10 : exception: Failed to open /home/nirlvy/.config/mpd/playlists: No such file or directory
+Jan 13 21:10 : exception: Failed to open /home/nirlvy/.config/mpd/playlists: No such file or directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jan 13 21:10 : exception: No such playlist
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.png': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.jpg': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/.357 Magnum_Callipose_BMS & BOF Music Collections.mp3/cover.webp': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.png': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.jpg': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Crystaline.mp3/cover.webp': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.png': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.jpg': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVI] Stellaria.mp3/cover.webp': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.png': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.jpg': Not a directory
+Jan 13 21:10 : exception: Failed to open '/home/nirlvy/Music/Music/Callipose - [BOFXVII] あなたが望む電気羊の夢の色彩へ.mp3/cover.webp': Not a directory
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 13 21:10 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 13 21:10 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 13 21:10 : ffmpeg/ape: Format ape detected only with low score of 25, misdetection possible!
+Jan 13 21:10 : ffmpeg/ape: Unsupported file version - 4.11
+Jan 13 21:26 : player: played "Team Grimoire - Dantalion.flac"
+Jan 14 21:42 : player: played "Team Grimoire - Dantalion.flac"
+Jan 15 22:57 : player: played "Team Grimoire - Dantalion.flac"
+Jan 16 21:04 : exception: Access denied
+Jan 16 22:58 : player: played "Team Grimoire - Dantalion.flac"

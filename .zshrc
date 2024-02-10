@@ -32,19 +32,6 @@ alias c='clear'
 export PNPM_HOME="/home/nirlvy/.local/share/pnpm"
 export PATH=/home/nirlvy/.local/bin/:$PNPM_HOME:$PATH
 export CRYPTOGRAPHY_OPENSSL_NO_LEGACY=1
-
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/usr/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/usr/etc/profile.d/conda.sh" ]; then
-        . "/usr/etc/profile.d/conda.sh"
-    else
-        export PATH="/usr/bin:$PATH"
-    fi
-fi
-unset __conda_setup
-# <<< conda initialize <<<
+source /opt/miniconda/etc/profile.d/conda.sh
+export RUST_LOG=debug
 
